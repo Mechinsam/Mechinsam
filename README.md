@@ -1,11 +1,4 @@
 # Mechinsam
-i mainly do game development/design in godot but sometimes i program in C++ & Python from time to time
+i love monky,,, i love survivvy,,... i love hunty.,.. i love gourmy... i love rivvy.... i love speary.... i love sainty.... i lvoe invy,... i love watchy,.,...
 
-## Projects
-- I'm currently working on: **RedWell** - A video game that should be releasing sometime this year
-- I'm currently learning: C++, SDL2, Godot 4
-- How to reach me:
-  - [Twitter](https://twitter.com/Mechinsam_)
-  - thats about it
-- Fun fact: 5/11/02
-
+![rain-rainworld](https://github.com/user-attachments/assets/420a01aa-e77e-41b2-9531-3be44c196557)
